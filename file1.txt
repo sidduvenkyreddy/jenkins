@@ -1,0 +1,1 @@
+mvn archetype:generate "-DgroupId=com.learn.with.kapil" "-DartifactId=MyFirstMavenProject" "-DarchtypeArtifactId=maven-achetype-quickstart" "-DinteractiveMode=false“
